@@ -1,0 +1,7 @@
+base   drupal7
+author Bart Verhagen
+email  barrie.verhagen@gmail.com
+date   2013-07-14
+name   drupal7 plugin
+desc   Drupal 7 backend authentication for Dokuwiki
+url    https://github.com/bverhagen/drupal7auth/
